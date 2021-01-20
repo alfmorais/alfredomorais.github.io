@@ -6,21 +6,6 @@
   Linkedin --> (https://www.linkedin.com/in/alfredomneto/)
 </p>
 
-## Projetos em Data Science ##
-1. 
-2. 
-3.
-
-## Projetos em Desenvolvimento Web ##
-1. 
-2. 
-3.
-
-## Projetos em Business Intelligence ##
-1.
-2.
-3.
-
 ## Cursos de Densolvimento ##
 1. Ciência de Dados 2.0 - Data Science Academy
 2. Git e GitHub do básico ao avançado (c/gist e GitHub Pages) - Udemy [@Matheus Battisti]
