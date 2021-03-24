@@ -7,6 +7,6 @@
 2. [Portifolio de Programação Elaborado no curso](https://alfmorais.github.io/portifolio/)
 
 ## CERTIFICADO DE CONCLUSÃO
-![Text Alt](portifolio/img/UC-d8b8a805-869e-454f-afd2-8f1a0f7ddd40.jpg)
+![Text Alt](/img/UC-d8b8a805-869e-454f-afd2-8f1a0f7ddd40.jpg)
 
 ## Alfredo de Morais | Desenvolvedor de Aplicações Python
